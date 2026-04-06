@@ -1,0 +1,14 @@
+{
+  "chamber_temp_min": 626.73,
+  "chamber_temp_max": 627.0,
+  "chamber_temp_mean": 626.86,
+  "nozzle_temp_min": 474.45,
+  "nozzle_temp_max": 475.0,
+  "nozzle_temp_mean": 474.7,
+  "stress_min_mpa": 54.195,
+  "stress_max_mpa": 3543.9,
+  "stress_mean_mpa": 861.31,
+  "deformation_min_mm": 0.0,
+  "deformation_max_mm": 0.18929,
+  "deformation_mean_mm": 0.09596
+}
