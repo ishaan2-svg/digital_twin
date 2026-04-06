@@ -1,0 +1,2741 @@
+{
+  "timestamp": "2025-12-30T16:48:17.251498",
+  "engines": [
+    {
+      "id": 1,
+      "rul": 84.5,
+      "drul": -0.7459999918937683,
+      "thermal_intensity": 0.324,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 2,
+      "rul": 73.4000015258789,
+      "drul": -0.8790000081062317,
+      "thermal_intensity": 0.413,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 3,
+      "rul": 114.0,
+      "drul": -0.24500000476837158,
+      "thermal_intensity": 0.088,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 4,
+      "rul": 121.19999694824219,
+      "drul": -0.08399999886751175,
+      "thermal_intensity": 0.03,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 5,
+      "rul": 85.5,
+      "drul": -0.675000011920929,
+      "thermal_intensity": 0.316,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 6,
+      "rul": 122.9000015258789,
+      "drul": -0.0430000014603138,
+      "thermal_intensity": 0.017,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 7,
+      "rul": 112.0999984741211,
+      "drul": -0.27399998903274536,
+      "thermal_intensity": 0.103,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 8,
+      "rul": 13.199999809265137,
+      "drul": -0.9710000157356262,
+      "thermal_intensity": 0.894,
+      "emission_color": [
+        1,
+        0,
+        0
+      ],
+      "status": "CRITICAL"
+    },
+    {
+      "id": 9,
+      "rul": 118.0999984741211,
+      "drul": -0.17000000178813934,
+      "thermal_intensity": 0.055,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 11,
+      "rul": 122.69999694824219,
+      "drul": -0.04699999839067459,
+      "thermal_intensity": 0.018,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 12,
+      "rul": 18.100000381469727,
+      "drul": -0.9750000238418579,
+      "thermal_intensity": 0.855,
+      "emission_color": [
+        1,
+        0,
+        0
+      ],
+      "status": "CRITICAL"
+    },
+    {
+      "id": 13,
+      "rul": 70.0,
+      "drul": -0.9750000238418579,
+      "thermal_intensity": 0.44,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 14,
+      "rul": 82.30000305175781,
+      "drul": -0.8199999928474426,
+      "thermal_intensity": 0.342,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 15,
+      "rul": 43.29999923706055,
+      "drul": -0.9739999771118164,
+      "thermal_intensity": 0.654,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 16,
+      "rul": 122.69999694824219,
+      "drul": -0.04600000008940697,
+      "thermal_intensity": 0.018,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 17,
+      "rul": 89.69999694824219,
+      "drul": -0.8059999942779541,
+      "thermal_intensity": 0.282,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 18,
+      "rul": 60.0,
+      "drul": -0.9670000076293945,
+      "thermal_intensity": 0.52,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 20,
+      "rul": 83.0999984741211,
+      "drul": -0.9559999704360962,
+      "thermal_intensity": 0.335,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 21,
+      "rul": 121.5999984741211,
+      "drul": -0.07900000363588333,
+      "thermal_intensity": 0.027,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 22,
+      "rul": 10.5,
+      "drul": -0.9660000205039978,
+      "thermal_intensity": 0.916,
+      "emission_color": [
+        1,
+        0,
+        0
+      ],
+      "status": "CRITICAL"
+    },
+    {
+      "id": 23,
+      "rul": 50.599998474121094,
+      "drul": -0.9620000123977661,
+      "thermal_intensity": 0.595,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 24,
+      "rul": 119.0999984741211,
+      "drul": -0.13199999928474426,
+      "thermal_intensity": 0.047,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 25,
+      "rul": 40.400001525878906,
+      "drul": -0.9959999918937683,
+      "thermal_intensity": 0.677,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 26,
+      "rul": 84.0999984741211,
+      "drul": -0.8109999895095825,
+      "thermal_intensity": 0.327,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 27,
+      "rul": 53.29999923706055,
+      "drul": -0.9559999704360962,
+      "thermal_intensity": 0.574,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 29,
+      "rul": 66.30000305175781,
+      "drul": -0.9419999718666077,
+      "thermal_intensity": 0.47,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 30,
+      "rul": 89.5999984741211,
+      "drul": -0.7400000095367432,
+      "thermal_intensity": 0.283,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 31,
+      "rul": 27.899999618530273,
+      "drul": -0.9909999966621399,
+      "thermal_intensity": 0.777,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 32,
+      "rul": 21.399999618530273,
+      "drul": -0.9919999837875366,
+      "thermal_intensity": 0.829,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 33,
+      "rul": 123.4000015258789,
+      "drul": -0.032999999821186066,
+      "thermal_intensity": 0.013,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 34,
+      "rul": 121.69999694824219,
+      "drul": -0.08100000023841858,
+      "thermal_intensity": 0.026,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 35,
+      "rul": 20.700000762939453,
+      "drul": -0.9860000014305115,
+      "thermal_intensity": 0.834,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 36,
+      "rul": 83.69999694824219,
+      "drul": -0.9160000085830688,
+      "thermal_intensity": 0.33,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 37,
+      "rul": 56.5,
+      "drul": -0.9470000267028809,
+      "thermal_intensity": 0.548,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 38,
+      "rul": 46.099998474121094,
+      "drul": -0.8579999804496765,
+      "thermal_intensity": 0.631,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 39,
+      "rul": 106.0,
+      "drul": -0.3109999895095825,
+      "thermal_intensity": 0.152,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 40,
+      "rul": 32.900001525878906,
+      "drul": -0.9750000238418579,
+      "thermal_intensity": 0.737,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 41,
+      "rul": 102.5,
+      "drul": -0.4429999887943268,
+      "thermal_intensity": 0.18,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 42,
+      "rul": 37.20000076293945,
+      "drul": -0.9940000176429749,
+      "thermal_intensity": 0.702,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 43,
+      "rul": 85.4000015258789,
+      "drul": -0.8939999938011169,
+      "thermal_intensity": 0.317,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 44,
+      "rul": 46.29999923706055,
+      "drul": -0.9789999723434448,
+      "thermal_intensity": 0.63,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 45,
+      "rul": 62.0,
+      "drul": -0.9940000176429749,
+      "thermal_intensity": 0.504,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 47,
+      "rul": 29.0,
+      "drul": -0.9890000224113464,
+      "thermal_intensity": 0.768,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 48,
+      "rul": 71.19999694824219,
+      "drul": -0.8370000123977661,
+      "thermal_intensity": 0.43,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 49,
+      "rul": 65.30000305175781,
+      "drul": -0.8920000195503235,
+      "thermal_intensity": 0.478,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 50,
+      "rul": 120.0999984741211,
+      "drul": -0.09300000220537186,
+      "thermal_intensity": 0.039,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 51,
+      "rul": 120.9000015258789,
+      "drul": -0.07900000363588333,
+      "thermal_intensity": 0.033,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 52,
+      "rul": 123.5999984741211,
+      "drul": -0.028999999165534973,
+      "thermal_intensity": 0.011,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 53,
+      "rul": 116.19999694824219,
+      "drul": -0.20000000298023224,
+      "thermal_intensity": 0.07,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 54,
+      "rul": 94.30000305175781,
+      "drul": -0.6129999756813049,
+      "thermal_intensity": 0.246,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 55,
+      "rul": 103.5,
+      "drul": -0.5989999771118164,
+      "thermal_intensity": 0.172,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 56,
+      "rul": 123.30000305175781,
+      "drul": -0.035999998450279236,
+      "thermal_intensity": 0.014,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 57,
+      "rul": 119.4000015258789,
+      "drul": -0.11599999666213989,
+      "thermal_intensity": 0.045,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 58,
+      "rul": 14.399999618530273,
+      "drul": -0.9779999852180481,
+      "thermal_intensity": 0.885,
+      "emission_color": [
+        1,
+        0,
+        0
+      ],
+      "status": "CRITICAL"
+    },
+    {
+      "id": 60,
+      "rul": 106.30000305175781,
+      "drul": -0.5239999890327454,
+      "thermal_intensity": 0.15,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 61,
+      "rul": 35.29999923706055,
+      "drul": -0.9919999837875366,
+      "thermal_intensity": 0.718,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 62,
+      "rul": 55.70000076293945,
+      "drul": -0.9340000152587891,
+      "thermal_intensity": 0.554,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 63,
+      "rul": 99.9000015258789,
+      "drul": -0.5580000281333923,
+      "thermal_intensity": 0.201,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 64,
+      "rul": 46.400001525878906,
+      "drul": -0.9919999837875366,
+      "thermal_intensity": 0.629,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 65,
+      "rul": 24.0,
+      "drul": -0.9929999709129333,
+      "thermal_intensity": 0.808,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 66,
+      "rul": 110.80000305175781,
+      "drul": -0.28999999165534973,
+      "thermal_intensity": 0.114,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 67,
+      "rul": 88.0,
+      "drul": -0.6470000147819519,
+      "thermal_intensity": 0.296,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 68,
+      "rul": 14.199999809265137,
+      "drul": -0.9670000076293945,
+      "thermal_intensity": 0.886,
+      "emission_color": [
+        1,
+        0,
+        0
+      ],
+      "status": "CRITICAL"
+    },
+    {
+      "id": 69,
+      "rul": 29.799999237060547,
+      "drul": -0.9879999756813049,
+      "thermal_intensity": 0.762,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 70,
+      "rul": 30.399999618530273,
+      "drul": -0.9850000143051147,
+      "thermal_intensity": 0.757,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 71,
+      "rul": 29.600000381469727,
+      "drul": -0.9800000190734863,
+      "thermal_intensity": 0.763,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 72,
+      "rul": 124.4000015258789,
+      "drul": -0.009999999776482582,
+      "thermal_intensity": 0.005,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 73,
+      "rul": 30.700000762939453,
+      "drul": -1.0019999742507935,
+      "thermal_intensity": 0.754,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 74,
+      "rul": 97.0999984741211,
+      "drul": -0.5799999833106995,
+      "thermal_intensity": 0.223,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 75,
+      "rul": 113.0,
+      "drul": -0.3009999990463257,
+      "thermal_intensity": 0.096,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 77,
+      "rul": 64.19999694824219,
+      "drul": -0.9729999899864197,
+      "thermal_intensity": 0.486,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 78,
+      "rul": 122.4000015258789,
+      "drul": -0.052000001072883606,
+      "thermal_intensity": 0.021,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 79,
+      "rul": 85.69999694824219,
+      "drul": -0.7900000214576721,
+      "thermal_intensity": 0.314,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 80,
+      "rul": 91.19999694824219,
+      "drul": -0.6290000081062317,
+      "thermal_intensity": 0.27,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 81,
+      "rul": 89.5,
+      "drul": -0.8479999899864197,
+      "thermal_intensity": 0.284,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 82,
+      "rul": 22.399999618530273,
+      "drul": -0.968999981880188,
+      "thermal_intensity": 0.821,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 83,
+      "rul": 123.5999984741211,
+      "drul": -0.027000000700354576,
+      "thermal_intensity": 0.011,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 84,
+      "rul": 123.19999694824219,
+      "drul": -0.035999998450279236,
+      "thermal_intensity": 0.014,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 85,
+      "rul": 123.9000015258789,
+      "drul": -0.020999999716877937,
+      "thermal_intensity": 0.009,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 86,
+      "rul": 61.20000076293945,
+      "drul": -0.9909999966621399,
+      "thermal_intensity": 0.51,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 87,
+      "rul": 109.19999694824219,
+      "drul": -0.33799999952316284,
+      "thermal_intensity": 0.126,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 88,
+      "rul": 82.0,
+      "drul": -0.8889999985694885,
+      "thermal_intensity": 0.344,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 89,
+      "rul": 98.9000015258789,
+      "drul": -0.5630000233650208,
+      "thermal_intensity": 0.209,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 90,
+      "rul": 84.69999694824219,
+      "drul": -0.8510000109672546,
+      "thermal_intensity": 0.322,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 91,
+      "rul": 65.69999694824219,
+      "drul": -0.9160000085830688,
+      "thermal_intensity": 0.474,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 92,
+      "rul": 63.20000076293945,
+      "drul": -0.9700000286102295,
+      "thermal_intensity": 0.494,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 93,
+      "rul": 116.9000015258789,
+      "drul": -0.1589999943971634,
+      "thermal_intensity": 0.065,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 94,
+      "rul": 102.19999694824219,
+      "drul": -0.5770000219345093,
+      "thermal_intensity": 0.182,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 95,
+      "rul": 106.5,
+      "drul": -0.3479999899864197,
+      "thermal_intensity": 0.148,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 96,
+      "rul": 70.80000305175781,
+      "drul": -0.9679999947547913,
+      "thermal_intensity": 0.434,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 97,
+      "rul": 72.4000015258789,
+      "drul": -0.8600000143051147,
+      "thermal_intensity": 0.421,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 98,
+      "rul": 111.0999984741211,
+      "drul": -0.3889999985694885,
+      "thermal_intensity": 0.111,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 99,
+      "rul": 50.29999923706055,
+      "drul": -1.0080000162124634,
+      "thermal_intensity": 0.598,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 100,
+      "rul": 24.5,
+      "drul": -0.949999988079071,
+      "thermal_intensity": 0.804,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 101,
+      "rul": 20.399999618530273,
+      "drul": -0.9729999899864197,
+      "thermal_intensity": 0.837,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 102,
+      "rul": 23.299999237060547,
+      "drul": -0.9900000095367432,
+      "thermal_intensity": 0.814,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 103,
+      "rul": 64.5,
+      "drul": -0.925000011920929,
+      "thermal_intensity": 0.484,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 104,
+      "rul": 118.0999984741211,
+      "drul": -0.1379999965429306,
+      "thermal_intensity": 0.055,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 105,
+      "rul": 88.4000015258789,
+      "drul": -0.7590000033378601,
+      "thermal_intensity": 0.293,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 106,
+      "rul": 92.5,
+      "drul": -0.6029999852180481,
+      "thermal_intensity": 0.26,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 107,
+      "rul": 80.9000015258789,
+      "drul": -0.8690000176429749,
+      "thermal_intensity": 0.353,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 108,
+      "rul": 119.5999984741211,
+      "drul": -0.10899999737739563,
+      "thermal_intensity": 0.043,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 109,
+      "rul": 123.9000015258789,
+      "drul": -0.024000000208616257,
+      "thermal_intensity": 0.009,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 110,
+      "rul": 60.5,
+      "drul": -0.9810000061988831,
+      "thermal_intensity": 0.516,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 111,
+      "rul": 28.899999618530273,
+      "drul": -0.9940000176429749,
+      "thermal_intensity": 0.769,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 112,
+      "rul": 71.69999694824219,
+      "drul": -0.8989999890327454,
+      "thermal_intensity": 0.426,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 113,
+      "rul": 44.400001525878906,
+      "drul": -1.003000020980835,
+      "thermal_intensity": 0.645,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 114,
+      "rul": 31.399999618530273,
+      "drul": -0.9829999804496765,
+      "thermal_intensity": 0.749,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 115,
+      "rul": 122.80000305175781,
+      "drul": -0.04699999839067459,
+      "thermal_intensity": 0.018,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 116,
+      "rul": 27.399999618530273,
+      "drul": -0.9509999752044678,
+      "thermal_intensity": 0.781,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 117,
+      "rul": 112.9000015258789,
+      "drul": -0.367000013589859,
+      "thermal_intensity": 0.097,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 118,
+      "rul": 19.299999237060547,
+      "drul": -0.9810000061988831,
+      "thermal_intensity": 0.846,
+      "emission_color": [
+        1,
+        0,
+        0
+      ],
+      "status": "CRITICAL"
+    },
+    {
+      "id": 119,
+      "rul": 56.599998474121094,
+      "drul": -0.9890000224113464,
+      "thermal_intensity": 0.547,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 120,
+      "rul": 98.5,
+      "drul": -0.656000018119812,
+      "thermal_intensity": 0.212,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 121,
+      "rul": 24.600000381469727,
+      "drul": -0.984000027179718,
+      "thermal_intensity": 0.803,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 122,
+      "rul": 108.5,
+      "drul": -0.30799999833106995,
+      "thermal_intensity": 0.132,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 123,
+      "rul": 28.799999237060547,
+      "drul": -0.9900000095367432,
+      "thermal_intensity": 0.77,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 124,
+      "rul": 44.29999923706055,
+      "drul": -0.9959999918937683,
+      "thermal_intensity": 0.646,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 126,
+      "rul": 7.300000190734863,
+      "drul": -0.9779999852180481,
+      "thermal_intensity": 0.942,
+      "emission_color": [
+        1,
+        0,
+        0
+      ],
+      "status": "CRITICAL"
+    },
+    {
+      "id": 127,
+      "rul": 105.0,
+      "drul": -0.5270000100135803,
+      "thermal_intensity": 0.16,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 128,
+      "rul": 120.30000305175781,
+      "drul": -0.10000000149011612,
+      "thermal_intensity": 0.038,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 129,
+      "rul": 120.9000015258789,
+      "drul": -0.08100000023841858,
+      "thermal_intensity": 0.033,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 130,
+      "rul": 111.5999984741211,
+      "drul": -0.2460000067949295,
+      "thermal_intensity": 0.107,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 131,
+      "rul": 71.0,
+      "drul": -0.984000027179718,
+      "thermal_intensity": 0.432,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 132,
+      "rul": 79.0,
+      "drul": -0.9089999794960022,
+      "thermal_intensity": 0.368,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 133,
+      "rul": 120.19999694824219,
+      "drul": -0.08900000154972076,
+      "thermal_intensity": 0.038,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 134,
+      "rul": 48.599998474121094,
+      "drul": -0.9950000047683716,
+      "thermal_intensity": 0.611,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 135,
+      "rul": 10.199999809265137,
+      "drul": -0.9710000157356262,
+      "thermal_intensity": 0.918,
+      "emission_color": [
+        1,
+        0,
+        0
+      ],
+      "status": "CRITICAL"
+    },
+    {
+      "id": 136,
+      "rul": 119.0999984741211,
+      "drul": -0.11900000274181366,
+      "thermal_intensity": 0.047,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 137,
+      "rul": 94.30000305175781,
+      "drul": -0.7549999952316284,
+      "thermal_intensity": 0.246,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 138,
+      "rul": 91.9000015258789,
+      "drul": -0.6499999761581421,
+      "thermal_intensity": 0.265,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 139,
+      "rul": 118.80000305175781,
+      "drul": -0.13500000536441803,
+      "thermal_intensity": 0.05,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 140,
+      "rul": 123.9000015258789,
+      "drul": -0.019999999552965164,
+      "thermal_intensity": 0.009,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 142,
+      "rul": 107.30000305175781,
+      "drul": -0.37700000405311584,
+      "thermal_intensity": 0.142,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 143,
+      "rul": 48.599998474121094,
+      "drul": -0.9980000257492065,
+      "thermal_intensity": 0.611,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 145,
+      "rul": 63.400001525878906,
+      "drul": -0.9319999814033508,
+      "thermal_intensity": 0.493,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 146,
+      "rul": 108.9000015258789,
+      "drul": -0.3109999895095825,
+      "thermal_intensity": 0.129,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 147,
+      "rul": 66.69999694824219,
+      "drul": -0.9610000252723694,
+      "thermal_intensity": 0.466,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 148,
+      "rul": 124.0,
+      "drul": -0.020999999716877937,
+      "thermal_intensity": 0.008,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 149,
+      "rul": 76.0999984741211,
+      "drul": -0.9210000038146973,
+      "thermal_intensity": 0.391,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 150,
+      "rul": 53.900001525878906,
+      "drul": -0.9660000205039978,
+      "thermal_intensity": 0.569,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 151,
+      "rul": 34.599998474121094,
+      "drul": -0.9819999933242798,
+      "thermal_intensity": 0.723,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 152,
+      "rul": 124.0,
+      "drul": -0.020999999716877937,
+      "thermal_intensity": 0.008,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 153,
+      "rul": 111.0,
+      "drul": -0.3319999873638153,
+      "thermal_intensity": 0.112,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 154,
+      "rul": 43.0,
+      "drul": -0.9829999804496765,
+      "thermal_intensity": 0.656,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 155,
+      "rul": 40.0,
+      "drul": -0.9959999918937683,
+      "thermal_intensity": 0.68,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 157,
+      "rul": 113.0,
+      "drul": -0.2639999985694885,
+      "thermal_intensity": 0.096,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 158,
+      "rul": 38.099998474121094,
+      "drul": -1.0010000467300415,
+      "thermal_intensity": 0.695,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 159,
+      "rul": 21.799999237060547,
+      "drul": -0.9819999933242798,
+      "thermal_intensity": 0.826,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 160,
+      "rul": 119.4000015258789,
+      "drul": -0.11100000143051147,
+      "thermal_intensity": 0.045,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 161,
+      "rul": 122.0999984741211,
+      "drul": -0.054999999701976776,
+      "thermal_intensity": 0.023,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 162,
+      "rul": 58.5,
+      "drul": -0.9940000176429749,
+      "thermal_intensity": 0.532,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 163,
+      "rul": 95.9000015258789,
+      "drul": -0.5249999761581421,
+      "thermal_intensity": 0.233,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 165,
+      "rul": 121.9000015258789,
+      "drul": -0.0689999982714653,
+      "thermal_intensity": 0.025,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 166,
+      "rul": 103.69999694824219,
+      "drul": -0.5730000138282776,
+      "thermal_intensity": 0.17,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 167,
+      "rul": 84.9000015258789,
+      "drul": -0.949999988079071,
+      "thermal_intensity": 0.321,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 168,
+      "rul": 118.30000305175781,
+      "drul": -0.14000000059604645,
+      "thermal_intensity": 0.054,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 171,
+      "rul": 69.5999984741211,
+      "drul": -0.9769999980926514,
+      "thermal_intensity": 0.443,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 172,
+      "rul": 101.30000305175781,
+      "drul": -0.4560000002384186,
+      "thermal_intensity": 0.19,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 173,
+      "rul": 27.899999618530273,
+      "drul": -0.9929999709129333,
+      "thermal_intensity": 0.777,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 174,
+      "rul": 23.0,
+      "drul": -0.9990000128746033,
+      "thermal_intensity": 0.816,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 175,
+      "rul": 111.80000305175781,
+      "drul": -0.2460000067949295,
+      "thermal_intensity": 0.106,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 176,
+      "rul": 85.4000015258789,
+      "drul": -0.8080000281333923,
+      "thermal_intensity": 0.317,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 177,
+      "rul": 51.900001525878906,
+      "drul": -0.9819999933242798,
+      "thermal_intensity": 0.585,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 178,
+      "rul": 119.69999694824219,
+      "drul": -0.11100000143051147,
+      "thermal_intensity": 0.042,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 179,
+      "rul": 31.700000762939453,
+      "drul": -0.9760000109672546,
+      "thermal_intensity": 0.746,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 180,
+      "rul": 20.299999237060547,
+      "drul": -0.9779999852180481,
+      "thermal_intensity": 0.838,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 181,
+      "rul": 16.399999618530273,
+      "drul": -0.9800000190734863,
+      "thermal_intensity": 0.869,
+      "emission_color": [
+        1,
+        0,
+        0
+      ],
+      "status": "CRITICAL"
+    },
+    {
+      "id": 182,
+      "rul": 87.19999694824219,
+      "drul": -0.8930000066757202,
+      "thermal_intensity": 0.302,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 183,
+      "rul": 74.9000015258789,
+      "drul": -0.8450000286102295,
+      "thermal_intensity": 0.401,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 184,
+      "rul": 31.100000381469727,
+      "drul": -0.9879999756813049,
+      "thermal_intensity": 0.751,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 185,
+      "rul": 55.0,
+      "drul": -0.9610000252723694,
+      "thermal_intensity": 0.56,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 187,
+      "rul": 70.9000015258789,
+      "drul": -0.9390000104904175,
+      "thermal_intensity": 0.433,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 188,
+      "rul": 86.80000305175781,
+      "drul": -0.7689999938011169,
+      "thermal_intensity": 0.306,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 189,
+      "rul": 86.4000015258789,
+      "drul": -0.9190000295639038,
+      "thermal_intensity": 0.309,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 190,
+      "rul": 55.099998474121094,
+      "drul": -0.9779999852180481,
+      "thermal_intensity": 0.559,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 191,
+      "rul": 123.4000015258789,
+      "drul": -0.03500000014901161,
+      "thermal_intensity": 0.013,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 192,
+      "rul": 73.69999694824219,
+      "drul": -0.8880000114440918,
+      "thermal_intensity": 0.41,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 193,
+      "rul": 108.19999694824219,
+      "drul": -0.33000001311302185,
+      "thermal_intensity": 0.134,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 194,
+      "rul": 32.5,
+      "drul": -0.9800000190734863,
+      "thermal_intensity": 0.74,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 195,
+      "rul": 117.19999694824219,
+      "drul": -0.15700000524520874,
+      "thermal_intensity": 0.062,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 196,
+      "rul": 76.0999984741211,
+      "drul": -0.9670000076293945,
+      "thermal_intensity": 0.391,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 197,
+      "rul": 37.20000076293945,
+      "drul": -0.968999981880188,
+      "thermal_intensity": 0.702,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 198,
+      "rul": 36.099998474121094,
+      "drul": -0.9959999918937683,
+      "thermal_intensity": 0.711,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 199,
+      "rul": 74.4000015258789,
+      "drul": -0.902999997138977,
+      "thermal_intensity": 0.405,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 200,
+      "rul": 66.30000305175781,
+      "drul": -0.9860000014305115,
+      "thermal_intensity": 0.47,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 201,
+      "rul": 74.9000015258789,
+      "drul": -0.8460000157356262,
+      "thermal_intensity": 0.401,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 202,
+      "rul": 8.5,
+      "drul": -0.9700000286102295,
+      "thermal_intensity": 0.932,
+      "emission_color": [
+        1,
+        0,
+        0
+      ],
+      "status": "CRITICAL"
+    },
+    {
+      "id": 203,
+      "rul": 121.19999694824219,
+      "drul": -0.07699999958276749,
+      "thermal_intensity": 0.03,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 205,
+      "rul": 95.69999694824219,
+      "drul": -0.5,
+      "thermal_intensity": 0.234,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 206,
+      "rul": 73.0,
+      "drul": -0.9419999718666077,
+      "thermal_intensity": 0.416,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 207,
+      "rul": 81.5999984741211,
+      "drul": -0.8209999799728394,
+      "thermal_intensity": 0.347,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 208,
+      "rul": 81.4000015258789,
+      "drul": -0.8339999914169312,
+      "thermal_intensity": 0.349,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 209,
+      "rul": 42.0,
+      "drul": -1.0119999647140503,
+      "thermal_intensity": 0.664,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 210,
+      "rul": 107.19999694824219,
+      "drul": -0.31200000643730164,
+      "thermal_intensity": 0.142,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 211,
+      "rul": 122.80000305175781,
+      "drul": -0.04600000008940697,
+      "thermal_intensity": 0.018,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 212,
+      "rul": 87.30000305175781,
+      "drul": -0.7760000228881836,
+      "thermal_intensity": 0.302,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 213,
+      "rul": 28.200000762939453,
+      "drul": -0.9739999771118164,
+      "thermal_intensity": 0.774,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 214,
+      "rul": 80.19999694824219,
+      "drul": -0.9440000057220459,
+      "thermal_intensity": 0.358,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 215,
+      "rul": 124.4000015258789,
+      "drul": -0.013000000268220901,
+      "thermal_intensity": 0.005,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 216,
+      "rul": 33.20000076293945,
+      "drul": -0.9959999918937683,
+      "thermal_intensity": 0.734,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 217,
+      "rul": 82.0999984741211,
+      "drul": -0.7870000004768372,
+      "thermal_intensity": 0.343,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 218,
+      "rul": 119.69999694824219,
+      "drul": -0.1080000028014183,
+      "thermal_intensity": 0.042,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 219,
+      "rul": 62.70000076293945,
+      "drul": -0.9710000157356262,
+      "thermal_intensity": 0.498,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 220,
+      "rul": 111.69999694824219,
+      "drul": -0.30399999022483826,
+      "thermal_intensity": 0.106,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 221,
+      "rul": 99.5,
+      "drul": -0.6759999990463257,
+      "thermal_intensity": 0.204,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 222,
+      "rul": 56.900001525878906,
+      "drul": -0.9639999866485596,
+      "thermal_intensity": 0.545,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 223,
+      "rul": 71.5999984741211,
+      "drul": -0.9459999799728394,
+      "thermal_intensity": 0.427,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 224,
+      "rul": 44.79999923706055,
+      "drul": -0.9959999918937683,
+      "thermal_intensity": 0.642,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 226,
+      "rul": 100.19999694824219,
+      "drul": -0.47999998927116394,
+      "thermal_intensity": 0.198,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 227,
+      "rul": 123.5,
+      "drul": -0.03200000151991844,
+      "thermal_intensity": 0.012,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 228,
+      "rul": 122.69999694824219,
+      "drul": -0.0430000014603138,
+      "thermal_intensity": 0.018,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 230,
+      "rul": 89.69999694824219,
+      "drul": -0.6629999876022339,
+      "thermal_intensity": 0.282,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 231,
+      "rul": 42.79999923706055,
+      "drul": -0.9449999928474426,
+      "thermal_intensity": 0.658,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 232,
+      "rul": 123.69999694824219,
+      "drul": -0.027000000700354576,
+      "thermal_intensity": 0.01,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 233,
+      "rul": 100.0999984741211,
+      "drul": -0.5230000019073486,
+      "thermal_intensity": 0.199,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 234,
+      "rul": 77.5999984741211,
+      "drul": -0.8870000243186951,
+      "thermal_intensity": 0.379,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 235,
+      "rul": 34.29999923706055,
+      "drul": -0.984000027179718,
+      "thermal_intensity": 0.726,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 236,
+      "rul": 104.0999984741211,
+      "drul": -0.593999981880188,
+      "thermal_intensity": 0.167,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 237,
+      "rul": 35.400001525878906,
+      "drul": -0.9829999804496765,
+      "thermal_intensity": 0.717,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 238,
+      "rul": 45.29999923706055,
+      "drul": -0.9639999866485596,
+      "thermal_intensity": 0.638,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 240,
+      "rul": 38.599998474121094,
+      "drul": -1.0019999742507935,
+      "thermal_intensity": 0.691,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 242,
+      "rul": 105.0,
+      "drul": -0.4490000009536743,
+      "thermal_intensity": 0.16,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 243,
+      "rul": 115.4000015258789,
+      "drul": -0.19699999690055847,
+      "thermal_intensity": 0.077,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 244,
+      "rul": 41.599998474121094,
+      "drul": -1.0019999742507935,
+      "thermal_intensity": 0.667,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    },
+    {
+      "id": 245,
+      "rul": 122.9000015258789,
+      "drul": -0.03999999910593033,
+      "thermal_intensity": 0.017,
+      "emission_color": [
+        0,
+        1,
+        0
+      ],
+      "status": "HEALTHY"
+    },
+    {
+      "id": 247,
+      "rul": 89.80000305175781,
+      "drul": -0.6650000214576721,
+      "thermal_intensity": 0.282,
+      "emission_color": [
+        1,
+        1,
+        0
+      ],
+      "status": "DEGRADED"
+    },
+    {
+      "id": 248,
+      "rul": 34.599998474121094,
+      "drul": -0.9919999837875366,
+      "thermal_intensity": 0.723,
+      "emission_color": [
+        1,
+        0.5,
+        0
+      ],
+      "status": "WARNING"
+    }
+  ]
+}
