@@ -6,7 +6,7 @@ This project bridges the gap between purely data-driven machine learning and phy
 
 **Note:** This is a fully virtualized software simulation. There is no physical hardware component; the system uses random values instead of actual sensor values to mimic physical operations and real-time telemetry.
 
-## 🚀 Key Features
+##  Key Features
 
 * **Physics-Informed AI:** Integrates Ansys-derived constraints (Thermal Margin, Stress Intensity, Deformation) directly into the feature space of a CNN-BiLSTM model.
 * **High Accuracy:** Achieves an RMSE of **2.89 cycles** and an MAE of **2.00 cycles** on the NASA C-MAPSS (FD001) test set, significantly outperforming standard LSTM baselines.
@@ -14,7 +14,7 @@ This project bridges the gap between purely data-driven machine learning and phy
 * **Low-Latency Streaming:** End-to-end inference and visual rendering loop operates at under 50ms, enabling a smooth, interactive user dashboard.
 * **Interactive Dashboard:** React-based UI allows users to adjust throttle/temperature on the fly and immediately observe the impact on the engine's Remaining Useful Life.
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The system operates in a continuous, bi-directional feedback loop:
 
@@ -24,7 +24,7 @@ The system operates in a continuous, bi-directional feedback loop:
 4. **Digital Twin (Blender):** Receives physical data via TCP socket, updates the 3D model, and streams JPEG frames back to the backend.
 5. **Dashboard Update:** Frontend displays the live video feed alongside the dynamic RUL graph.
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 * **Machine Learning:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy
 * **Physics Simulation (Offline):** Ansys (Finite Element Analysis)
@@ -32,7 +32,7 @@ The system operates in a continuous, bi-directional feedback loop:
 * **3D Visualization:** Blender, Blender Python API (`bpy`)
 * **Frontend Dashboard:** React, Recharts, Node.js
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 * Python 3.8+
@@ -63,7 +63,7 @@ cd frontend  # Replace with your actual frontend folder name
 npm install
 ```
 
-## 🏃‍♂️ Running the Digital Twin
+##  Running the Digital Twin
 
 To establish the continuous feedback loop, the services must be started simultaneously.
 
@@ -76,7 +76,7 @@ python backend_server.py
 **2. Start the Blender Server**
 * Open your 3D engine model (`.blend` file) in Blender.
 * Navigate to the **Scripting** workspace.
-* Open `blender_server.py` and click **Run Script** (▶️) to start the TCP listener.
+* Open `blender_server.py` and click **Run Script** to start the TCP listener.
 
 **3. Start the Frontend Dashboard**
 ```bash
@@ -86,7 +86,7 @@ npm start
 
 Open `http://localhost:3000` in your browser to interact with the Digital Twin.
 
-## 📊 Model Performance
+##  Model Performance
 
 | Model | RMSE (Cycles) | MAE (Cycles) | Inference Time |
 | :--- | :--- | :--- | :--- |
